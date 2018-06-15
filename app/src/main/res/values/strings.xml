@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task-app</string>
+    <string name="SummaryTitle">Summary</string>
+    <string name="TaskToDo">Task To Do</string>
+    <string name="TaskToDoing">Task To Doing</string>
+    <string name="TaskDone">TaskDone</string>
+    <string name="ButtonNew">New</string>
+    <string name="ButtonShowAll">Show All</string>
+</resources>
